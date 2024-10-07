@@ -1,0 +1,14 @@
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\bin\Debug\net8.0\singleton.exe
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\bin\Debug\net8.0\singleton.deps.json
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\bin\Debug\net8.0\singleton.dll
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\bin\Debug\net8.0\singleton.pdb
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.dll
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\refint\singleton.dll
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.pdb
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+\\iscsi\profstud\SokolovAA\Desktop\singleton-main\sngleton\sngleton\obj\Debug\net8.0\ref\singleton.dll
